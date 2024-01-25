@@ -18,16 +18,15 @@ The Store Inventory Management System is a comprehensive tool designed to stream
 
 ## Getting Started
 To start using the Store Inventory Management System, clone the repository and ensure Python is installed on your machine.
-
 ```
 git clone https://github.com/abhai28/Store-Inventory-Management-System.git
 ```
-
 Run the main script to launch the application:
-
 ```
-python main_.py
+python main_script.py
 ```
+Replace `main_script.py` with the actual name of the Python script.
 
 ## Contributions
 Your contributions to enhance the system's functionality, improve the UI/UX, or add new features are greatly appreciated. Please feel free to fork the repository, make your changes, and submit a pull request.
+
