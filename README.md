@@ -30,10 +30,8 @@ git clone https://github.com/abhai28/Store-Inventory-Management-System.git
 Run the main script to launch the application:
 
 ```
-python main_script.py
+python main.py
 ```
-
-Replace `main_script.py` with the actual name of the Python script.
 
 ## Contributions
 
